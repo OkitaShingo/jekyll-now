@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Welcome To the Interleague.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+The interleaguje looks to bring you English coverage of the various sports leagues around Asia.
 
 ### Contact me
 
