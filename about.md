@@ -9,7 +9,7 @@ Welcome To the Interleague.
 
 ### More Information
 
-The interleaguje looks to bring you English coverage of the various sports leagues around Asia.
+The Interleagues looks to bring you English coverage of the various sports leagues around Asia.
 
 ### Contact me
 
