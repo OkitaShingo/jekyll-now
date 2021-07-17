@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Welcome To the Interleague.
+Welcome To the Interleagues
 
 ### More Information
 
